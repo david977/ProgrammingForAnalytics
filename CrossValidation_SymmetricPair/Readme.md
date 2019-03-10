@@ -1,0 +1,1 @@
+This exercise illustrates the correct way of cross validating the data of genes that occur in pairs. The pairs may be repeated in various rows. So we may have to do various types of cross validations. I have illustrated three ways of cross validation  - when both paris are present, when one of the pairs is absent and when both are absent. 
